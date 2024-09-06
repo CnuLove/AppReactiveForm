@@ -1,0 +1,16 @@
+.input-text{
+    display: flex;
+    flex-direction: column;
+}
+form{
+   display: flex;
+   flex-direction: column;
+   width: 40%;
+   gap: 10px;
+}
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
